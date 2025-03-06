@@ -9,6 +9,7 @@ on:
 
 jobs:
   upload:
+    environment: dev
     runs-on: ubuntu-latest
 
     steps:
