@@ -1,0 +1,1 @@
+bucket-name="demo-cf-tania-static-content-bucket"
